@@ -27,7 +27,7 @@ description: 'دیپ لینک (Deeplink)‌ها لینک هایی هستند ک�
 
   
 
-دیپ‌لینک ها با توجه به کاربردی که از آن‌ها انتظار می‌رود، انواع کاملا متفاوتی دارند. با [بلاگ چابک](https://blog.chabokpush.com/) همراه باشید تا در خصوص انواع دیپ لینک‌ها و لزوم استفاده از آن‌ها در دنیای اپلیکیشن مارکتینگ بیشتر بدانید.
+دیپ‌لینک ها با توجه به کاربردی که از آن‌ها انتظار می‌رود، انواع کاملا متفاوتی دارند. با [بلاگ چابک](https://blog.chabok.io/) همراه باشید تا در خصوص انواع دیپ لینک‌ها و لزوم استفاده از آن‌ها در دنیای اپلیکیشن مارکتینگ بیشتر بدانید.
 
 <p style="text-align: center;"><img width=90% src="http://uupload.ir/files/ob5h_deeplinkingsized.jpg" /></p>
 
@@ -87,7 +87,7 @@ description: 'دیپ لینک (Deeplink)‌ها لینک هایی هستند ک�
 
 
 <p style="text-align: center;">
-    <a style="display: inline-block; text-align: center; border-radius: 40px; background: #4285f4; color: white !important; padding: 7px 25px; margin-right: 15px; cursor: pointer; transition: all 0.25s ease;" href="https://doc.chabokpush.com/android/deeplink.html"> با نحوه پیاده ‌سازی دیپ‌‌لینک در پنل چابک آشنا شوید.
+    <a style="display: inline-block; text-align: center; border-radius: 40px; background: #4285f4; color: white !important; padding: 7px 25px; margin-right: 15px; cursor: pointer; transition: all 0.25s ease;" href="https://doc.chabok.io/android/deeplink.html"> با نحوه پیاده ‌سازی دیپ‌‌لینک در پنل چابک آشنا شوید.
 </a>
 
 </p>
