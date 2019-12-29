@@ -11,3 +11,6 @@ theme = "chabok-theme"
 
 [params]
   copyright = 'Copyright &#xA9; 2018 chabok. All Rights Reserved.'
+
+[markup.goldmark.renderer]
+    unsafe= true

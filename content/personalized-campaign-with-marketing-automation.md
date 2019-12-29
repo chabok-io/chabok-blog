@@ -3,8 +3,8 @@ title: "اجرای کمپین شخصی‌سازی‌شده ‌به کمک اتو
 date: 2019-10-15T11:00:14+54:30
 draft: false
 author: ساریناعمادی
-avatar: sarina.jpg
-img: personalizedcampaignwithmarketingautomation.gif
+avatar: sarina.png
+img: personalized-campaign-with-marketing-automation.png
 summary: '٪۷۵ از بازاریابان دیجتال از ابزارهای اتومیشن بازاریابی برای بهبود فروش استفاده می‌کنند و براساس رفتار کاربران، کمپین‌های شخصی‌سازی‌شده به کاربران ارسال می‌کنند.'
 description: 'اتوماسیون بازاریابی به کمک کمپین‌های شخصی‌سازی شده، نرخ بازگشت کاربران به اپلیکیشن‌ را افزایش می‌دهد.'
 ---
