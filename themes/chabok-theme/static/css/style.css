@@ -328,6 +328,9 @@ footer .nav-link {
     border-radius: 7px;
 }
 
+h1, h2, h3, h4, h5, h6{
+    line-height: 220% !important;
+}
 
 h2{
     font-size: 25px!important;
@@ -355,8 +358,45 @@ h4{
 }
 p {
     margin-bottom: 0.25rem!important;
+    line-height: 220% !important;
 }
 img{
-    margin-top: 10px;
     max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.outset {
+}
+
+li{
+    line-height: 220% !important;
+}
+
+.button.button-blue.active, .button.button-blue:hover, button.button-blue.active, button.button-blue:hover, input[type=submit].button-blue.active, input[type=submit].button-blue:hover {
+    color: #fff;
+    background: #2aaabd;
+}
+.kt-ads-box-desc .button {
+    color: #fff;
+}
+.kt-ads-box-desc .button, .kt-modal-holder:before, .modal-contact-bottom-text small, .slick-dots li {
+    display: inline-block;
+    vertical-align: middle;
+}
+.button.button-blue, button.button-blue, input[type=submit].button-blue {
+    background: #38bfd3;
+}
+
+.kt-ads-box .kt-ads-box-image {
+    float: right;
+    margin: 0 0 0 25px!important;
+    width: 140px;
+}
+
+.post-content img {
+    height: auto;
+    margin: 20px 0 30px!important;
+    max-width: 95%;
 }
