@@ -4,7 +4,7 @@ date: 2019-10-20T11:00:09+03:30
 draft: false
 author: رعنا آخوندی
 avatar: RanaAkhoondi.jpg
-img: application marketing.jpg
+img: application-marketing.png
 summary: 'بازاریابی اپلیکیشن‌های موبایل (Mobile App Marketing) به معنای برقراری تعامل سازنده با کاربران در تمام مراحل چرخه حیات کاربران (User Lifecycle) است.'
 description: 'اپلیکیشن مارکتینگ یا همان موبایل مارکتینگ را میتوان شاخه ای جدید از دیجیتال مارکتینگ دانست که نیاز به طراحی استراتژی مخصوص به خودش را دارد.'
 ---

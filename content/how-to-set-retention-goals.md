@@ -3,8 +3,8 @@ title: "تنظیم هوشمندانه اهداف بازگشت (Retention Goals)"
 date: 2019-10-22T11:00:16+15:30
 draft: false
 author: ساریناعمادی
-avatar: sarina.jpg
-img: How-To-Set-Retention-Goals.gif
+avatar: sarina.png
+img: HowToSetRetentionGoal.png
 summary: 'بیزینس‌ها برای جلوگیری از نرخ ریزش کاربران(Customer Churn) به یک مسئله بهینه و هدف نیاز دارند که بازگشت (Retention) را به سه مرحله اساسی کوتاه مدت ، میان مدت و طولانی مدت تقسیم کنند'
 description: 'برای بازگشت کاربران به اپلیکیشن باید از اهداف هدفمند برای مبارزه با  نرخ ریزش کاربران استفاده  کنید.'
 ---
