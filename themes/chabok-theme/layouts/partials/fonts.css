@@ -77,7 +77,7 @@
     url('/fonts/Shabnam.woff2') format('woff2'),
     url('/fonts/Shabnam.woff') format('woff'),
     url('/fonts/Shabnam.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 300;
 }
 
 @font-face {
