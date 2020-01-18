@@ -260,6 +260,7 @@ footer .nav-link {
 }
 .list-header{
     min-height: 38px;
+    line-height: 10px;
 }
 .avatar{
     height: 30px;
@@ -295,6 +296,7 @@ footer .nav-link {
     font-size: 16px!important;
     margin-top: 19px;
     font-weight: bold;
+    line-height: 30px !important;
 }
 .mt-60{
     margin-top: 60px!important;
@@ -348,7 +350,7 @@ h4{
     font-size: 17px;
     color: #42a7f5;
     margin-bottom: 10px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .list-style-none{
     list-style: none!important;
@@ -378,20 +380,39 @@ li{
     color: #fff;
     background: #2aaabd;
 }
-.kt-ads-box-desc .button {
-    color: #fff;
+
+.blog-item {
+    border-radius: 5px !important;
 }
+
+.blog-item-picture {
+    border-radius: 5px 5px 0px 0px !important;
+}
+
+.kt-ads-box-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.kt-ads-box-desc .button {
+    justify-content: space-between;
+}
+
 .kt-ads-box-desc .button, .kt-modal-holder:before, .modal-contact-bottom-text small, .slick-dots li {
     display: inline-block;
     vertical-align: middle;
 }
 .button.button-blue, button.button-blue, input[type=submit].button-blue {
     background: #38bfd3;
+    padding: 5px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
 }
 
-.kt-ads-box .kt-ads-box-image {
+ .kt-ads-box-image {
     float: right;
-    margin: 0 0 0 25px!important;
+    margin: 15px!important;
     width: 140px;
 }
 
