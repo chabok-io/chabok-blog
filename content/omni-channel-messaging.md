@@ -63,8 +63,6 @@ omni-channel messaging یکی از پیچیده‌ترین و شاید کامل�
 </ul>
 <p style="text-align: center;"><img width=90% src="http://uupload.ir/files/t1nr_benefits-omni-channel-messaging-in-applivation-marketing.gif"/></p>
 
-{{< extraBox title="tittttllleee" description="desssssccccc" buttonTitle="tiiiitlltltltltlt btuuuon" buttonAction="google.com" image="http://uupload.ir/files/t1nr_benefits-omni-channel-messaging-in-applivation-marketing.gif" >}}
-
 ## پیام‌رسانی امنی چنل در چابک چه‌طور کار می‌کند؟
 
  پیام‌رسانی فراکاناله با هدف ارتباط و تعامل بیشتر با کاربران راه‌اندازی شده است، اجرای کمپین با امنی چنل به کاربران کمک می‌کند تا تعامل بهتری با کاربران‌شان برقرار کنند. اما اینکه چه طور چابک به کاربرانش کمک می‌کند تا کمپین را به کمک یکی از کانال‌های امنی چنل به کاربران ارسال کند را در ادامه توضیح خواهیم داد.
