@@ -325,8 +325,8 @@ footer .nav-link {
     border-radius: 7px;
 }
 .read_more{
-    background-color: #F2F1F3;
-    padding: 15px;
+    background-color: #F2F1F370;
+    padding: 15px 0px;
     margin-bottom: 20px;
     border-radius: 7px;
 }
@@ -379,7 +379,7 @@ li{
 
 .button.button-blue.active, .button.button-blue:hover, button.button-blue.active, button.button-blue:hover, input[type=submit].button-blue.active, input[type=submit].button-blue:hover {
     color: #fff;
-    background: #2aaabd;
+    background: #456acf;
 }
 
 .blog-item {
@@ -393,6 +393,16 @@ li{
 .kt-ads-box-text {
     text-align: justify;
     text-justify: inter-word;
+    color: #888;
+    padding: 0px 35px;
+}
+
+.kt-ads-box-text-p {
+    border-bottom: none;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0 0;
+    padding: 0 !important;
 }
 
 .kt-ads-box-desc .button {
@@ -404,7 +414,7 @@ li{
     vertical-align: middle;
 }
 .button.button-blue, button.button-blue, input[type=submit].button-blue {
-    background: #38bfd3;
+    background: #456acf;
     padding: 5px 20px;
     margin-top: 10px;
     border-radius: 5px;
@@ -413,7 +423,7 @@ li{
 
 .kt-ads-box-image {
     float: right;
-    margin: 15px!important;
+    margin: 15px 35px !important;
     width: 140px;
 }
 
