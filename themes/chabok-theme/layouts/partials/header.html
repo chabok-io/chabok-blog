@@ -3,8 +3,11 @@
 {{ partial "head.html" . }}
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLVNJDG"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLVNJDG"
+                  height="0" width="0" style="display:none;visibility:hidden">
+    </iframe>
+</noscript>
 <!-- End Google Tag Manager (noscript) -->
 <!--<div id="sitelogo">-->
     <!--<a class="glyph" alt="Home" href="{{ .Site.BaseURL }}"><img scr="https://raw.githubusercontent.com/chabok-io/chabok-assets/master/chabok-company-logo-color-full.png" alt="Site Logo" height="64px" width="64px"></a>-->
@@ -22,3 +25,24 @@
     </div>
     {{ end }}
 </header>
+
+<script>
+    function addHeadingLinks(){
+        var article = document.getElementById('article');
+        var headings = article.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        headings.forEach(function(heading){
+            if(heading.id){
+                var a = document.createElement('a');
+                a.innerHTML = heading.innerHTML.replace(' ', '-');
+                a.href = '#'+a.innerHTML;
+                heading.id = a.innerHTML;
+                heading.innerHTML = '';
+                heading.appendChild(a);
+            }
+        });
+    };
+
+    window.onload = () => {
+        addHeadingLinks()
+    }
+</script>

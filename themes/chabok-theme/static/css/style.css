@@ -348,10 +348,24 @@ h3{
     color:#008080;
 }
 h4{
-    font-size: 17px;
+    font-size: 18px;
     color: #42a7f5;
     margin-bottom: 10px;
     margin-top: 20px;
+}
+
+h5{
+    font-size: 16px;
+    color: #7e69f5;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+h6{
+    font-size: 15px;
+    color: #9f70f5;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 .list-style-none{
     list-style: none!important;
