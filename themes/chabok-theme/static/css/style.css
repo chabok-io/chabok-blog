@@ -89,7 +89,7 @@ a {
     border-color: rgba(0,0,0,.1);
 }
 /*.navbar-light .navbar-toggler {*/
-    /*color: rgba(0,0,0,.5);*/
+    /font-weight-bo lder*color: rgba(0,0,0,.5);*/
     /*border-color: rgba(0,0,0,.1);*/
 /*}*/
 .navbar-toggler {
@@ -305,6 +305,11 @@ footer .nav-link {
 .mb-0{
     margin-bottom: 0!important;
 }
+
+strong {
+    font-weight: bold !important;
+}
+
 .push-benefit{
     background-color: #F7F7F7;
     padding: 15px;
