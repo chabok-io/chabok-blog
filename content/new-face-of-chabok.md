@@ -1,6 +1,6 @@
 ---
 title: "چهره جدید چابک"
-date: 2020-09-06T11:00:09+03:30
+date: 2020-09-06T11:00:09+57:30
 draft: false
 author: حمیدرضا زارع موسی
 avatar: hamidreza.jpg
