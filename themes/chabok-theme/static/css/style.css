@@ -251,6 +251,7 @@ footer .nav-link {
     text-align: justify;
     line-height: 26px;
     word-break: break-word;
+    flex: 1;
 }
 .summary-text{
     display: -webkit-box;
@@ -403,6 +404,9 @@ li{
 
 .blog-item {
     border-radius: 5px !important;
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 70px);
 }
 
 .blog-item-picture {
